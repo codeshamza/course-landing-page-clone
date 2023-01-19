@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="60px" viewBox="0 0 100 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Overview</title>
+    <defs>
+        <path d="M34.491352,11.7048616 L23.207352,0.504861539 C22.880984,0.180923077 22.44004,0 21.98,0 L3.752,0 C1.83372,0 0.28,1.54215384 0.28,3.44615384 L0.28,41.3538461 C0.28,43.2578461 1.83372,44.8 3.752,44.8 L31.528,44.8 C33.44628,44.8 35,43.2578461 35,41.3538461 L35,12.9230769 C35,12.4664616 34.81772,12.0288 34.491352,11.7048616 Z M22.848,13.7846154 C21.889728,13.7846154 21.112,13.0126769 21.112,12.0615384 L21.112,3.28073846 L31.694656,13.7846154 L22.848,13.7846154 Z" id="path-1"></path>
+        <filter x="-46.1%" y="-31.2%" width="192.2%" height="171.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.200202142 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Overview" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5f24b8032480e111ebe482e2_Interview-Prep" transform="translate(32.000000, 8.000000)" fill-rule="nonzero">
+            <g id="Shape">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" xlink:href="#path-1"></use>
+            </g>
+            <path d="M18,22 C14.13425,22 11,25.13425 11,29 C11,32.86575 14.13425,36 18,36 C21.86575,36 25,32.86575 25,29 C25,25.13425 21.86575,22 18,22 Z M18.5833333,32.5 L17.4166667,32.5 L17.4166667,28.4166667 L18.5833333,28.4166667 L18.5833333,32.5 Z M18,26.9583333 C17.517,26.9583333 17.125,26.5663333 17.125,26.0833333 C17.125,25.6003333 17.517,25.2083333 18,25.2083333 C18.483,25.2083333 18.875,25.6003333 18.875,26.0833333 C18.875,26.5663333 18.483,26.9583333 18,26.9583333 Z" id="Shape" fill="#7F879D"></path>
+        </g>
+    </g>
+</svg>
